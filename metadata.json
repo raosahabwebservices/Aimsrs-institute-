@@ -1,0 +1,6 @@
+{
+  "name": "Aimers Computer Institute Management & WhatsApp Automation",
+  "description": "Premium management and WhatsApp automation software for Aimers Computer Institute",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
